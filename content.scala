@@ -121,9 +121,5 @@ object Mainmuqnv {
         println("usnjm");
         println("mxpwy");
         println("xkdve");
-        println("pkoaa");
-        println("gemhd");
-        println("xjutt");
-        println("wlqtn");
     }
 }
