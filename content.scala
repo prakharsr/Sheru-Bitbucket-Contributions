@@ -202,6 +202,6 @@ object Mainmuqnv {
         println("maqfq");
         println("vsawn");
         println("ksuqy");
-        println("reguo");
+        println("ttphs");
     }
 }
