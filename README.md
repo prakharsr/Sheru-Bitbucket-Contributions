@@ -1,3 +1,22 @@
+# Sheru Bitbucket Contributions
+
+I imported my private bitbucket contributions from 37+ repositories in Sheru into this mock repository on github to update the contribution chart. 
+- The date and time of contributions is the same without any modification.
+- The repo names have been hidden for privacy.
+- The commit messages have been hidden for privacy.
+- The content of the commits are hidden for privacy.
+
+Used this github repo for this task - https://github.com/miromannino/Contributions-Importer-For-Github
+
+The command used was:
+
+```
+git-import-contributions repo \
+    --repos <repo names> \
+    --mock_repo <mock repo name> \
+    --author prakhar.s@sheru.se
+```
+
 **This is a mock repository.** 
 
 This repository aims to report in GitHub contributions coming from other platforms.
